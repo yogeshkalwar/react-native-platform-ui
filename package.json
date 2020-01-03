@@ -1,6 +1,6 @@
 {
   "name": "react-native-platform-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Plugin to have native ui components from Android/iOS for react native usage",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/yogeshkalwar/react-native-platform-ui/issues"
   },
-  "homepage": "https://github.com/yogeshkalwar/react-native-platform-ui#readme"
+  "homepage": "https://github.com/yogeshkalwar/react-native-platform-ui#readme",
+  "devDependencies": {
+    "jetifier": "^1.6.5"
+  },
+  "postinstall" : "npx jetify"
 }
