@@ -1,15 +1,20 @@
 {
   "name": "react-native-platform-ui",
-  "version": "1.0.0",
-  "description": "## Getting started",
+  "version": "1.0.2",
+  "description": "Plugin to have native ui components from Android/iOS for react native usage",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-native-platform-ui",
+    "android",
+    "iOS",
+    "Button",
+    "yogi"
   ],
-  "author": "Yogesh Kalwar",
+  "author": "Yogesh Kalwar <yogesh.kalwar@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"

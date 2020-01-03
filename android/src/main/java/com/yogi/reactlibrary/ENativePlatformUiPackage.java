@@ -15,7 +15,7 @@ import com.yogi.reactlibrary.modules.EButtonManager;
 public class ENativePlatformUiPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(final ReactApplicationContext reactContext) {
-      return Arrays.<NativeModule>asList(new coms.yogi.reactlibrary.ENativePlatformUiModule(reactContext));
+      return Arrays.<NativeModule>asList(new com.yogi.reactlibrary.ENativePlatformUiModule(reactContext));
     }
 
     // Deprecated from RN 0.47
