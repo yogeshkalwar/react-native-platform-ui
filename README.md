@@ -1,5 +1,7 @@
 
 # react-native-platform-ui
+[![npm version](https://badge.fury.io/js/react-native-platform-ui.svg)](https://badge.fury.io/js/react-native-platform-ui)
+[![NPM](https://nodei.co/npm/react-native-platform-ui.png)](https://nodei.co/npm/react-native-platform-ui/)
 
 ## Getting started
 
