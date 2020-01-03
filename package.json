@@ -1,6 +1,6 @@
 {
   "name": "react-native-platform-ui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plugin to have native ui components from Android/iOS for react native usage",
   "main": "index.js",
   "scripts": {
